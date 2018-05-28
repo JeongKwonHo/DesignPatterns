@@ -1,5 +1,5 @@
 /**
-	@file	Singleton.cpp
+	@file	DynamicSingleton.cpp
 	@date	2018-5-24
 	@author	JeongKwonHo(jkh2802@gmail.com)
 	@brief	Dynamic Singleton using atexit
